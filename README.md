@@ -81,11 +81,13 @@ or
 
 ## 📁 Project Structure
 
-text
+```text
 email-spam-predictor/
 │
 ├── app.py
 ├── model.pkl
 ├── requirements.txt
 └── README.md
+```
+
 
